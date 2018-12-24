@@ -1,17 +1,21 @@
 package astaire;
 
-public class ControllerImplementation implements Controller {
+public class DanceController implements Controller {
+	DanceList dances;
+	
+	public DanceController() {
+		dances = new DanceList();
+	}
 
 	@Override
 	public String listAllDancersIn(String dance) {
-		// TODO Auto-generated method stub
-		return null;
+		return dances.getPerformers(dance).toString();
 	}
 
 	@Override
 	public String listAllDancesAndPerformers() {
-		// TODO Auto-generated method stub
-		return null;
+	
+		return dances.getFullGroup().toString();
 	}
 
 	@Override

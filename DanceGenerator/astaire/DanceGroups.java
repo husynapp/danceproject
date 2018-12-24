@@ -9,6 +9,8 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.TreeMap;
+import java.util.HashMap;
 
 /**
  * DanceGroup Object, to return all of the dancers in a specified group
@@ -16,20 +18,22 @@ import java.util.HashMap;
  * @author Abdullah Hussain
  * @version 27/11/2018
  */
-public class DanceGroup {
+public class DanceGroups {
 
 	/**
 	 * Group name and all performers are stored as a HashMap
 	 */
-	private static HashMap<Dance, ArrayList<Performer>> groupAndPerformers;
+	private TreeMap<String, ArrayList<String>> groupAndPerformers;
+	
+	 ;
 
 	/**
 	 * Constructor
 	 * 
 	 * @param filePath Location to the CSV file
 	 */
-	public DanceGroup(String filePath) {
-		groupAndPerformers = new HashMap<Dance, ArrayList<Performer>>();
+	public DanceGroups(String filePath) {
+		groupAndPerformers = new TreeMap<String, ArrayList<String>>();
 		readFile(filePath);
 	}
 
@@ -56,8 +60,9 @@ public class DanceGroup {
 				String[] attributes = line.split("\t");
 
 				tempDance = attributes[0];
+				tempDance = tempDance.trim();
 				performerList = attributes[1];
-				addToHashMap(tempDance, performerList);
+				addToTreeMap(tempDance, performerList);
 
 				line = br.readLine();
 
@@ -75,44 +80,49 @@ public class DanceGroup {
 	 * @param tempDance  Dance group name
 	 * @param performers List of all performers as String with comma separated
 	 */
-	private void addToHashMap(String tempDance, String performers) {
-		ArrayList<Performer> performerArrayList = new ArrayList<Performer>();
+	private void addToTreeMap(String tempDance, String performers) {
+		ArrayList<String> performerArrayList = new ArrayList<String>();
 
-		Dance newDance = new Dance(tempDance);
-		String[] performArray = performers.split(",");
+		//Dance newDance = new Dance(tempDance);
+		String[] performArray = performers.split(", ");
 		Arrays.sort(performArray);
 		for (int i = 0; i < performArray.length; i++) {
-			performerArrayList.add(new Performer(performArray[i]));
+			performerArrayList.add(performArray[i]);
 		}
 
-		groupAndPerformers.put(newDance, performerArrayList);
+		groupAndPerformers.put(tempDance, performerArrayList);
 
 	}
 
 	/**
 	 * @return HashMap of all group and performers
 	 */
-	public ArrayList<Performer> getGroupDetails(String groupName) {
-		Dance temp = new Dance(groupName);
-		groupAndPerformers.containsKey(temp.getDanceName());
-		return groupAndPerformers.get(temp);
+	public ArrayList<String> getGroupDetails(String groupName) {
+	
+			return groupAndPerformers.get(groupName);
+	
 	}
 
 	/**
 	 * Prints out all the dance groups and their respective performers
 	 */
 	public void groupDetails() {
-		for (Dance group : groupAndPerformers.keySet()) {
-			String key = group.getDanceName();
+		for (String group : groupAndPerformers.keySet()) {
+			String key = group;
 			String value = groupAndPerformers.get(group).toString();
-			System.out.println("Group name: " + key + "\t Performers: " + value);
+			System.out.println(key+ value);
 		}
 	}
+	
 
-	public static void main(String[] args) {
-		DanceGroup x = new DanceGroup("astaire/danceShowData_danceGroups.csv");
-		x.groupDetails();
-		System.out.println(x.getGroupDetails("Juniors"));
+	/**
+	 * Allows to get the full hashmap where the Group and their performers are
+	 * stored.
+	 * 
+	 * @return groupAndPerformers
+	 */
+	public TreeMap<String, ArrayList<String>> getFullDetails() {
+		return groupAndPerformers;
 	}
 
 }
