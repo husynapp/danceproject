@@ -12,15 +12,24 @@ public class DanceController implements Controller {
 			
 		return dances.getPerformers(dance).toString();
 
-		
-		
-			
 	}
 
 	@Override
 	public String listAllDancesAndPerformers() {
 	
-		return dances.getFullGroup().toString();
+//		return dances.getFullDanceList().toString();
+		return formatText();
+	}
+	
+	private String formatText() {
+		String list = dances.getFullDanceList().toString();
+		String[] split = list.split("],");
+		String result = "";
+		for (int index = 0; index < split.length; index++) {
+			result += split[index];
+			result += "]\n";
+		}
+		return result;
 	}
 
 	@Override

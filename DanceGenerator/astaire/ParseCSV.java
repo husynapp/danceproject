@@ -38,9 +38,10 @@ public class ParseCSV {
 				String[] attributes = line.split("\t");
 
 				firstColoumn = attributes[0];
-				firstColoumn = firstColoumn.trim();
+//				firstColoumn = firstColoumn.trim();
 				secondColoumn = attributes[1];
-				
+//				secondColoumn = secondColoumn.trim();
+						
 				addToTreeMap(firstColoumn, secondColoumn);
 
 				line = br.readLine();
@@ -57,14 +58,15 @@ public class ParseCSV {
 		ArrayList<String> arrayList = new ArrayList<String>();
 
 		//Dance newDance = new Dance(tempDance);
-		String[] performArray = performers.split(", ");
+		String[] performArray = performers.split(",");
+		
 		Arrays.sort(performArray);
 		for (int i = 0; i < performArray.length; i++) {
 			
-			arrayList.add(performArray[i]);
+			arrayList.add(performArray[i].trim());
 		}
 
-		treeMap.put(name, arrayList);
+		treeMap.put(name.trim(), arrayList);
 	}
 	
 	public TreeMap<String, ArrayList<String>> getTreeMap(){
