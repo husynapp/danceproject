@@ -13,14 +13,16 @@ import java.util.TreeMap;
 public class ParseCSV {
 	
 	private TreeMap<String, ArrayList<String>> treeMap;
+	private ArrayList<String> danceNames;
 	
-	public ParseCSV(String fileName) {
+	public ParseCSV(String fileName, boolean isRunningOrder) {
 		treeMap = new TreeMap<String, ArrayList<String>>();
-		readFile(fileName);
+		danceNames =  new ArrayList<String>();
+		readFile(fileName, isRunningOrder);
 	}
 	
 	
-	public void readFile(String fileName) {
+	public void readFile(String fileName, boolean normalFunction) {
 		String secondColoumn;
 		String firstColoumn;
 		Path pathToFile = Paths.get(fileName);
@@ -42,7 +44,11 @@ public class ParseCSV {
 				secondColoumn = attributes[1];
 //				secondColoumn = secondColoumn.trim();
 						
-				addToTreeMap(firstColoumn, secondColoumn);
+				if(normalFunction==false) {
+					addToTreeMap(firstColoumn, secondColoumn);
+				}else {
+					addToArrayList(firstColoumn);
+				}
 
 				line = br.readLine();
 
@@ -52,6 +58,10 @@ public class ParseCSV {
 
 		}
 
+	}
+	
+	private void addToArrayList(String danceName) {
+		this.danceNames.add(danceName.trim());
 	}
 	
 	private void addToTreeMap(String name, String performers) {
@@ -71,6 +81,10 @@ public class ParseCSV {
 	
 	public TreeMap<String, ArrayList<String>> getTreeMap(){
 		return treeMap;
+	}
+	
+	public ArrayList<String> getDanceNames(){
+		return danceNames;
 	}
 
 

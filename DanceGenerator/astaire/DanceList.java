@@ -16,8 +16,9 @@ public class DanceList {
 
 	private TreeMap<String, ArrayList<String>> danceTreeMap;
 
+
 	public DanceList() {
-		ParseCSV danceCSV = new ParseCSV("astaireDataFiles/danceShowData_dances.csv");
+		ParseCSV danceCSV = new ParseCSV("astaireDataFiles/danceShowData_dances.csv", false);
 		danceTreeMap = new TreeMap<String, ArrayList<String>>();
 		danceTreeMap = danceCSV.getTreeMap();
 		addRemainingMembers();
@@ -35,18 +36,18 @@ public class DanceList {
 		// Search through one of the danceTreeMap or tempGroupDetails and replace the
 		// words
 
-		for (Entry<String, ArrayList<String>> entry : danceTreeMap.entrySet()) {
-			ArrayList<String> temp = entry.getValue();
-			int numberToIterate = temp.size();
+		for (Entry<String, ArrayList<String>> treeMap : danceTreeMap.entrySet()) {
+			ArrayList<String> performerNames = treeMap.getValue();
+			int numberToIterate = performerNames.size();
 			for (int index = 0; index < numberToIterate; index++) {
-				if (tempGroupDetails.containsKey(temp.get(index))) {
-					temp.addAll(tempGroupDetails.get(temp.get(index)));
-					temp.remove(index);
+				if (tempGroupDetails.containsKey(performerNames.get(index))) {
+					performerNames.addAll(tempGroupDetails.get(performerNames.get(index)));
+					performerNames.remove(index);
 					index--;
 
 				}
 			}
-			Collections.sort(temp);
+			Collections.sort(performerNames);
 		}
 
 	}
@@ -58,6 +59,7 @@ public class DanceList {
 	 */
 	public ArrayList<String> getPerformers(String groupName) {
 		if (!danceTreeMap.containsKey(groupName)) {
+			System.out.println("Dance does not exit, Please check the spellings");
 			throw new IllegalArgumentException();
 		}
 		return danceTreeMap.get(groupName);
