@@ -1,0 +1,17 @@
+Generating random order. Checking for feasiblity
+[Make 'em Laugh, Blue Danube, A Spoonful of Sugar, The Tapioca, Do you Hear the People Sing, Jewish Wedding Song, Good Morning, I Got Rhythm, Charleston, The Candy Man Can, Any Dream Will Do, Supercalifragilisticexpialidocious]
+Time elapsed so far: 2 ms
+
+Order is suitable
+Make 'em Laugh
+Blue Danube
+A Spoonful of Sugar
+The Tapioca
+Do you Hear the People Sing
+Jewish Wedding Song
+Good Morning
+I Got Rhythm
+Charleston
+The Candy Man Can
+Any Dream Will Do
+Supercalifragilisticexpialidocious

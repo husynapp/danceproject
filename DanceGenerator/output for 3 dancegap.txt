@@ -1,0 +1,665 @@
+Generating random order. Checking for feasiblity
+[Do you Hear the People Sing, All That Jazz, Memory, Thoroughly Modern Milly, Singing in the Rain, Step In Time, Make 'em Laugh, Yankee Doodle, I Got Rhythm, Chicken Song, Let's Pretend, The Music of the Night]
+Time elapsed so far: 1 ms
+
+Generating random order. Checking for feasiblity
+[Memory, Doe-Re-Mi, What a Feeling, Jewish Wedding Song, Yankee Doodle, Juvenile Tap, Any Dream Will Do, Singing in the Rain, Choo Choo Ch'boogie, All That Jazz, Masquerade, Alice in Disney Land]
+Time elapsed so far: 2 ms
+
+Generating random order. Checking for feasiblity
+[Singing in the Rain, I Got Rhythm, Jazz Baby, What a Feeling, I Dreamed a Dream, The Tapioca, Gold Tap, Good Morning, Choo Choo Ch'boogie, Cell Block Tango, Charleston, Masquerade]
+Time elapsed so far: 3 ms
+
+Generating random order. Checking for feasiblity
+[Step In Time, Good Morning, I Could Have Dance All Night, Gold Tap, Silver Tap, Singing in the Rain, Cell Block Tango, Supercalifragilisticexpialidocious, Yankee Doodle, What a Feeling, The Music of the Night, My Favourite Things]
+Time elapsed so far: 3 ms
+
+Generating random order. Checking for feasiblity
+[Silver Tap, All That Jazz, Make 'em Laugh, Cell Block Tango, My Favourite Things, A Spoonful of Sugar, Any Dream Will Do, I Got Rhythm, Good Morning, Masquerade, Singing in the Rain, Jewish Wedding Song]
+Time elapsed so far: 4 ms
+
+Generating random order. Checking for feasiblity
+[I Could Have Dance All Night, Thoroughly Modern Milly, Supercalifragilisticexpialidocious, My Favourite Things, Let's Pretend, Step In Time, Masquerade, Doe-Re-Mi, Make 'em Laugh, I Got Rhythm, Charleston, Any Dream Will Do]
+Time elapsed so far: 5 ms
+
+Generating random order. Checking for feasiblity
+[Bye Bye Blackbird, Supercalifragilisticexpialidocious, Gold Tap, Chicken Song, Memory, Any Dream Will Do, All That Jazz, Good Morning, Jewish Wedding Song, I Got Rhythm, Yankee Doodle, A Spoonful of Sugar]
+Time elapsed so far: 5 ms
+
+Generating random order. Checking for feasiblity
+[Jewish Wedding Song, Singing in the Rain, Doe-Re-Mi, Any Dream Will Do, Make 'em Laugh, Thoroughly Modern Milly, Juvenile Tap, Choo Choo Ch'boogie, The Candy Man Can, Silver Tap, Charleston, A Spoonful of Sugar]
+Time elapsed so far: 6 ms
+
+Generating random order. Checking for feasiblity
+[Charleston, Alice in Disney Land, Any Dream Will Do, What a Feeling, Good Morning, Juvenile Tap, Memory, Chicken Song, Doe-Re-Mi, Singing in the Rain, Step In Time, Jewish Wedding Song]
+Time elapsed so far: 7 ms
+
+Generating random order. Checking for feasiblity
+[Charleston, I Dreamed a Dream, Any Dream Will Do, Let's Pretend, Good Morning, Make 'em Laugh, Bronze Tap, Silver Tap, Do you Hear the People Sing, Jewish Wedding Song, The Music of the Night, I Got Rhythm]
+Time elapsed so far: 9 ms
+
+Generating random order. Checking for feasiblity
+[Chicken Song, All That Jazz, Let's Pretend, I Got Rhythm, Juvenile Tap, Memory, Yankee Doodle, Step In Time, I Dreamed a Dream, I Could Have Dance All Night, Good Morning, Supercalifragilisticexpialidocious]
+Time elapsed so far: 10 ms
+
+Generating random order. Checking for feasiblity
+[My Favourite Things, Choo Choo Ch'boogie, Yankee Doodle, Masquerade, Thoroughly Modern Milly, Step In Time, All That Jazz, Bronze Tap, Jewish Wedding Song, Charleston, Doe-Re-Mi, What a Feeling]
+Time elapsed so far: 11 ms
+
+Generating random order. Checking for feasiblity
+[Charleston, Jazz Baby, Let's Pretend, Any Dream Will Do, A Spoonful of Sugar, Silver Tap, Make 'em Laugh, Cell Block Tango, Gold Tap, I Could Have Dance All Night, Doe-Re-Mi, What a Feeling]
+Time elapsed so far: 12 ms
+
+Generating random order. Checking for feasiblity
+[Doe-Re-Mi, Do you Hear the People Sing, Choo Choo Ch'boogie, Charleston, Gold Tap, Thoroughly Modern Milly, Step In Time, The Tapioca, Bye Bye Blackbird, Bronze Tap, Supercalifragilisticexpialidocious, Let's Pretend]
+Time elapsed so far: 12 ms
+
+Generating random order. Checking for feasiblity
+[I Got Rhythm, Step In Time, Silver Tap, Any Dream Will Do, All That Jazz, Chicken Song, Blue Danube, The Music of the Night, Jewish Wedding Song, Doe-Re-Mi, I Could Have Dance All Night, A Spoonful of Sugar]
+Time elapsed so far: 13 ms
+
+Generating random order. Checking for feasiblity
+[Supercalifragilisticexpialidocious, I Got Rhythm, Bronze Tap, Cell Block Tango, Any Dream Will Do, Good Morning, Blue Danube, Alice in Disney Land, Singing in the Rain, All That Jazz, Jewish Wedding Song, The Music of the Night]
+Time elapsed so far: 14 ms
+
+Generating random order. Checking for feasiblity
+[A Spoonful of Sugar, Choo Choo Ch'boogie, What a Feeling, Juvenile Tap, Masquerade, Do you Hear the People Sing, Good Morning, Blue Danube, Doe-Re-Mi, Gold Tap, Make 'em Laugh, I Dreamed a Dream]
+Time elapsed so far: 15 ms
+
+Generating random order. Checking for feasiblity
+[Jazz Baby, The Candy Man Can, Doe-Re-Mi, Gold Tap, All That Jazz, Any Dream Will Do, What a Feeling, Good Morning, Masquerade, Alice in Disney Land, The Tapioca, Thoroughly Modern Milly]
+Time elapsed so far: 15 ms
+
+Generating random order. Checking for feasiblity
+[Gold Tap, The Tapioca, Do you Hear the People Sing, Step In Time, Supercalifragilisticexpialidocious, All That Jazz, I Dreamed a Dream, Singing in the Rain, Bye Bye Blackbird, Thoroughly Modern Milly, The Candy Man Can, Silver Tap]
+Time elapsed so far: 16 ms
+
+Generating random order. Checking for feasiblity
+[Gold Tap, Do you Hear the People Sing, Choo Choo Ch'boogie, All That Jazz, Doe-Re-Mi, Let's Pretend, I Dreamed a Dream, A Spoonful of Sugar, What a Feeling, Singing in the Rain, Masquerade, Chicken Song]
+Time elapsed so far: 16 ms
+
+Generating random order. Checking for feasiblity
+[The Candy Man Can, Jazz Baby, Singing in the Rain, Chicken Song, Juvenile Tap, The Music of the Night, Do you Hear the People Sing, Make 'em Laugh, Cell Block Tango, All That Jazz, My Favourite Things, Jewish Wedding Song]
+Time elapsed so far: 17 ms
+
+Generating random order. Checking for feasiblity
+[Let's Pretend, Singing in the Rain, Supercalifragilisticexpialidocious, Bronze Tap, I Got Rhythm, The Music of the Night, Yankee Doodle, Chicken Song, Charleston, I Could Have Dance All Night, Alice in Disney Land, Masquerade]
+Time elapsed so far: 17 ms
+
+Generating random order. Checking for feasiblity
+[The Music of the Night, Bronze Tap, Blue Danube, I Could Have Dance All Night, Masquerade, Jewish Wedding Song, Jazz Baby, Supercalifragilisticexpialidocious, I Got Rhythm, Charleston, I Dreamed a Dream, All That Jazz]
+Time elapsed so far: 18 ms
+
+Generating random order. Checking for feasiblity
+[Silver Tap, Singing in the Rain, A Spoonful of Sugar, Step In Time, All That Jazz, What a Feeling, Good Morning, Juvenile Tap, Bronze Tap, I Dreamed a Dream, Make 'em Laugh, Yankee Doodle]
+Time elapsed so far: 18 ms
+
+Generating random order. Checking for feasiblity
+[Juvenile Tap, Yankee Doodle, Do you Hear the People Sing, Let's Pretend, Thoroughly Modern Milly, All That Jazz, Masquerade, Good Morning, Alice in Disney Land, The Candy Man Can, The Tapioca, Gold Tap]
+Time elapsed so far: 19 ms
+
+Generating random order. Checking for feasiblity
+[What a Feeling, I Could Have Dance All Night, I Dreamed a Dream, Jazz Baby, Gold Tap, Jewish Wedding Song, A Spoonful of Sugar, Make 'em Laugh, Juvenile Tap, Charleston, Bye Bye Blackbird, Do you Hear the People Sing]
+Time elapsed so far: 19 ms
+
+Generating random order. Checking for feasiblity
+[Silver Tap, Cell Block Tango, Memory, Good Morning, Step In Time, Alice in Disney Land, The Tapioca, Juvenile Tap, The Music of the Night, What a Feeling, Any Dream Will Do, Bye Bye Blackbird]
+Time elapsed so far: 20 ms
+
+Generating random order. Checking for feasiblity
+[Doe-Re-Mi, Let's Pretend, Supercalifragilisticexpialidocious, Charleston, A Spoonful of Sugar, Thoroughly Modern Milly, The Music of the Night, Singing in the Rain, Jazz Baby, Do you Hear the People Sing, Good Morning, All That Jazz]
+Time elapsed so far: 20 ms
+
+Generating random order. Checking for feasiblity
+[Doe-Re-Mi, I Could Have Dance All Night, Blue Danube, I Dreamed a Dream, The Music of the Night, Chicken Song, Bronze Tap, A Spoonful of Sugar, The Tapioca, Supercalifragilisticexpialidocious, Alice in Disney Land, Good Morning]
+Time elapsed so far: 21 ms
+
+Generating random order. Checking for feasiblity
+[Alice in Disney Land, Jewish Wedding Song, Step In Time, Doe-Re-Mi, Blue Danube, The Candy Man Can, Jazz Baby, Singing in the Rain, My Favourite Things, I Dreamed a Dream, What a Feeling, Yankee Doodle]
+Time elapsed so far: 21 ms
+
+Generating random order. Checking for feasiblity
+[Blue Danube, My Favourite Things, Masquerade, Make 'em Laugh, Choo Choo Ch'boogie, Alice in Disney Land, Jewish Wedding Song, Step In Time, I Got Rhythm, The Tapioca, The Music of the Night, Gold Tap]
+Time elapsed so far: 22 ms
+
+Generating random order. Checking for feasiblity
+[I Could Have Dance All Night, I Dreamed a Dream, A Spoonful of Sugar, Do you Hear the People Sing, Any Dream Will Do, Singing in the Rain, Jazz Baby, Jewish Wedding Song, Juvenile Tap, The Tapioca, Alice in Disney Land, Bye Bye Blackbird]
+Time elapsed so far: 23 ms
+
+Generating random order. Checking for feasiblity
+[A Spoonful of Sugar, The Candy Man Can, The Music of the Night, Make 'em Laugh, Gold Tap, Charleston, Good Morning, I Could Have Dance All Night, I Dreamed a Dream, Jazz Baby, Chicken Song, Choo Choo Ch'boogie]
+Time elapsed so far: 23 ms
+
+Generating random order. Checking for feasiblity
+[Blue Danube, Make 'em Laugh, My Favourite Things, I Could Have Dance All Night, Masquerade, All That Jazz, Good Morning, The Candy Man Can, Jewish Wedding Song, Gold Tap, Thoroughly Modern Milly, Do you Hear the People Sing]
+Time elapsed so far: 24 ms
+
+Generating random order. Checking for feasiblity
+[Chicken Song, I Dreamed a Dream, Choo Choo Ch'boogie, Alice in Disney Land, Thoroughly Modern Milly, Doe-Re-Mi, Bye Bye Blackbird, Charleston, Masquerade, Gold Tap, Good Morning, Singing in the Rain]
+Time elapsed so far: 25 ms
+
+Generating random order. Checking for feasiblity
+[Any Dream Will Do, Yankee Doodle, I Could Have Dance All Night, Chicken Song, Silver Tap, Masquerade, The Candy Man Can, Jazz Baby, Let's Pretend, The Tapioca, Singing in the Rain, Alice in Disney Land]
+Time elapsed so far: 25 ms
+
+Generating random order. Checking for feasiblity
+[Blue Danube, My Favourite Things, Good Morning, Masquerade, Singing in the Rain, The Music of the Night, Bronze Tap, Juvenile Tap, Let's Pretend, Alice in Disney Land, Yankee Doodle, Jazz Baby]
+Time elapsed so far: 27 ms
+
+Generating random order. Checking for feasiblity
+[Good Morning, Bronze Tap, A Spoonful of Sugar, Chicken Song, Make 'em Laugh, The Music of the Night, Juvenile Tap, The Candy Man Can, Blue Danube, I Dreamed a Dream, Bye Bye Blackbird, Supercalifragilisticexpialidocious]
+Time elapsed so far: 27 ms
+
+Generating random order. Checking for feasiblity
+[Cell Block Tango, Jewish Wedding Song, What a Feeling, Doe-Re-Mi, Chicken Song, Singing in the Rain, Good Morning, I Could Have Dance All Night, I Got Rhythm, A Spoonful of Sugar, Bye Bye Blackbird, Yankee Doodle]
+Time elapsed so far: 27 ms
+
+Generating random order. Checking for feasiblity
+[Jazz Baby, The Music of the Night, Bronze Tap, Doe-Re-Mi, Make 'em Laugh, Jewish Wedding Song, Cell Block Tango, Bye Bye Blackbird, Good Morning, Singing in the Rain, I Dreamed a Dream, Step In Time]
+Time elapsed so far: 28 ms
+
+Generating random order. Checking for feasiblity
+[Memory, Blue Danube, Bye Bye Blackbird, Thoroughly Modern Milly, Singing in the Rain, Silver Tap, Charleston, Yankee Doodle, Let's Pretend, The Candy Man Can, Bronze Tap, Step In Time]
+Time elapsed so far: 28 ms
+
+Generating random order. Checking for feasiblity
+[I Could Have Dance All Night, A Spoonful of Sugar, Doe-Re-Mi, Memory, Masquerade, The Tapioca, Singing in the Rain, Gold Tap, Choo Choo Ch'boogie, Make 'em Laugh, Silver Tap, What a Feeling]
+Time elapsed so far: 29 ms
+
+Generating random order. Checking for feasiblity
+[Do you Hear the People Sing, Masquerade, Doe-Re-Mi, The Candy Man Can, I Got Rhythm, I Could Have Dance All Night, Jazz Baby, Chicken Song, Charleston, Thoroughly Modern Milly, Bronze Tap, Jewish Wedding Song]
+Time elapsed so far: 29 ms
+
+Generating random order. Checking for feasiblity
+[Jewish Wedding Song, I Dreamed a Dream, Blue Danube, Alice in Disney Land, Supercalifragilisticexpialidocious, I Could Have Dance All Night, Chicken Song, The Candy Man Can, Juvenile Tap, The Tapioca, I Got Rhythm, Let's Pretend]
+Time elapsed so far: 30 ms
+
+Generating random order. Checking for feasiblity
+[Thoroughly Modern Milly, A Spoonful of Sugar, I Got Rhythm, Bye Bye Blackbird, Silver Tap, Supercalifragilisticexpialidocious, Jazz Baby, Good Morning, Charleston, All That Jazz, Alice in Disney Land, My Favourite Things]
+Time elapsed so far: 30 ms
+
+Generating random order. Checking for feasiblity
+[Masquerade, Charleston, Doe-Re-Mi, Let's Pretend, Blue Danube, What a Feeling, Yankee Doodle, The Music of the Night, Step In Time, Any Dream Will Do, Bronze Tap, Make 'em Laugh]
+Time elapsed so far: 31 ms
+
+Generating random order. Checking for feasiblity
+[Step In Time, The Tapioca, Memory, A Spoonful of Sugar, Masquerade, I Dreamed a Dream, I Could Have Dance All Night, Bye Bye Blackbird, Thoroughly Modern Milly, Yankee Doodle, Charleston, Good Morning]
+Time elapsed so far: 31 ms
+
+Generating random order. Checking for feasiblity
+[Memory, Singing in the Rain, Juvenile Tap, Blue Danube, Jewish Wedding Song, Yankee Doodle, Thoroughly Modern Milly, I Could Have Dance All Night, Masquerade, Step In Time, All That Jazz, Chicken Song]
+Time elapsed so far: 31 ms
+
+Generating random order. Checking for feasiblity
+[Any Dream Will Do, The Tapioca, Gold Tap, The Candy Man Can, My Favourite Things, I Dreamed a Dream, Jazz Baby, Chicken Song, What a Feeling, Silver Tap, Let's Pretend, The Music of the Night]
+Time elapsed so far: 32 ms
+
+Generating random order. Checking for feasiblity
+[My Favourite Things, Blue Danube, What a Feeling, Singing in the Rain, Masquerade, I Got Rhythm, Bronze Tap, Any Dream Will Do, Gold Tap, The Tapioca, Good Morning, Supercalifragilisticexpialidocious]
+Time elapsed so far: 32 ms
+
+Generating random order. Checking for feasiblity
+[Bye Bye Blackbird, Gold Tap, The Music of the Night, Alice in Disney Land, Any Dream Will Do, Jazz Baby, The Candy Man Can, Chicken Song, All That Jazz, Step In Time, A Spoonful of Sugar, Make 'em Laugh]
+Time elapsed so far: 33 ms
+
+Generating random order. Checking for feasiblity
+[Masquerade, The Tapioca, I Dreamed a Dream, Supercalifragilisticexpialidocious, Any Dream Will Do, A Spoonful of Sugar, Singing in the Rain, I Could Have Dance All Night, Thoroughly Modern Milly, Jazz Baby, My Favourite Things, Juvenile Tap]
+Time elapsed so far: 33 ms
+
+Generating random order. Checking for feasiblity
+[Gold Tap, I Got Rhythm, Good Morning, Yankee Doodle, All That Jazz, Cell Block Tango, A Spoonful of Sugar, I Could Have Dance All Night, What a Feeling, Any Dream Will Do, Bye Bye Blackbird, Bronze Tap]
+Time elapsed so far: 34 ms
+
+Generating random order. Checking for feasiblity
+[Masquerade, Do you Hear the People Sing, I Got Rhythm, Blue Danube, Chicken Song, The Music of the Night, All That Jazz, I Dreamed a Dream, Jazz Baby, Gold Tap, The Tapioca, Charleston]
+Time elapsed so far: 34 ms
+
+Generating random order. Checking for feasiblity
+[Jewish Wedding Song, I Could Have Dance All Night, A Spoonful of Sugar, Gold Tap, I Dreamed a Dream, Blue Danube, The Tapioca, Let's Pretend, Bye Bye Blackbird, Juvenile Tap, Do you Hear the People Sing, Yankee Doodle]
+Time elapsed so far: 34 ms
+
+Generating random order. Checking for feasiblity
+[Step In Time, Bronze Tap, My Favourite Things, Jazz Baby, Supercalifragilisticexpialidocious, Gold Tap, All That Jazz, Charleston, Good Morning, Masquerade, Blue Danube, A Spoonful of Sugar]
+Time elapsed so far: 35 ms
+
+Generating random order. Checking for feasiblity
+[Doe-Re-Mi, Juvenile Tap, I Dreamed a Dream, Chicken Song, Yankee Doodle, Thoroughly Modern Milly, The Tapioca, Make 'em Laugh, Alice in Disney Land, Let's Pretend, Masquerade, Gold Tap]
+Time elapsed so far: 35 ms
+
+Generating random order. Checking for feasiblity
+[Do you Hear the People Sing, Yankee Doodle, The Tapioca, Jazz Baby, A Spoonful of Sugar, I Dreamed a Dream, Chicken Song, Charleston, My Favourite Things, Doe-Re-Mi, Bronze Tap, Blue Danube]
+Time elapsed so far: 36 ms
+
+Generating random order. Checking for feasiblity
+[Blue Danube, Cell Block Tango, What a Feeling, Alice in Disney Land, Do you Hear the People Sing, Juvenile Tap, All That Jazz, Silver Tap, Choo Choo Ch'boogie, Memory, I Could Have Dance All Night, My Favourite Things]
+Time elapsed so far: 44 ms
+
+Generating random order. Checking for feasiblity
+[Choo Choo Ch'boogie, Singing in the Rain, Step In Time, Do you Hear the People Sing, All That Jazz, Yankee Doodle, Charleston, Thoroughly Modern Milly, What a Feeling, Alice in Disney Land, Supercalifragilisticexpialidocious, Memory]
+Time elapsed so far: 45 ms
+
+Generating random order. Checking for feasiblity
+[Cell Block Tango, The Music of the Night, Bye Bye Blackbird, Doe-Re-Mi, What a Feeling, Choo Choo Ch'boogie, Make 'em Laugh, Any Dream Will Do, I Dreamed a Dream, Blue Danube, Silver Tap, The Tapioca]
+Time elapsed so far: 45 ms
+
+Generating random order. Checking for feasiblity
+[I Dreamed a Dream, Alice in Disney Land, My Favourite Things, Let's Pretend, A Spoonful of Sugar, Memory, Make 'em Laugh, Supercalifragilisticexpialidocious, All That Jazz, Juvenile Tap, Charleston, What a Feeling]
+Time elapsed so far: 46 ms
+
+Generating random order. Checking for feasiblity
+[Do you Hear the People Sing, Blue Danube, Bye Bye Blackbird, Juvenile Tap, Gold Tap, Choo Choo Ch'boogie, The Music of the Night, A Spoonful of Sugar, The Candy Man Can, Charleston, My Favourite Things, Singing in the Rain]
+Time elapsed so far: 46 ms
+
+Generating random order. Checking for feasiblity
+[The Music of the Night, My Favourite Things, Bye Bye Blackbird, Juvenile Tap, Silver Tap, Doe-Re-Mi, What a Feeling, Make 'em Laugh, Memory, Jazz Baby, Yankee Doodle, Alice in Disney Land]
+Time elapsed so far: 46 ms
+
+Generating random order. Checking for feasiblity
+[Choo Choo Ch'boogie, Bye Bye Blackbird, The Music of the Night, A Spoonful of Sugar, Step In Time, Jewish Wedding Song, All That Jazz, Charleston, Yankee Doodle, What a Feeling, Cell Block Tango, Make 'em Laugh]
+Time elapsed so far: 47 ms
+
+Generating random order. Checking for feasiblity
+[A Spoonful of Sugar, I Could Have Dance All Night, Bye Bye Blackbird, Choo Choo Ch'boogie, Jazz Baby, Juvenile Tap, Do you Hear the People Sing, Supercalifragilisticexpialidocious, Chicken Song, Thoroughly Modern Milly, Yankee Doodle, Jewish Wedding Song]
+Time elapsed so far: 47 ms
+
+Generating random order. Checking for feasiblity
+[Cell Block Tango, Masquerade, Blue Danube, Charleston, Choo Choo Ch'boogie, Silver Tap, My Favourite Things, Supercalifragilisticexpialidocious, Yankee Doodle, The Candy Man Can, Any Dream Will Do, Good Morning]
+Time elapsed so far: 48 ms
+
+Generating random order. Checking for feasiblity
+[Silver Tap, Choo Choo Ch'boogie, A Spoonful of Sugar, Make 'em Laugh, The Tapioca, My Favourite Things, I Could Have Dance All Night, Thoroughly Modern Milly, The Music of the Night, What a Feeling, Charleston, Yankee Doodle]
+Time elapsed so far: 48 ms
+
+Generating random order. Checking for feasiblity
+[Chicken Song, Bye Bye Blackbird, Good Morning, All That Jazz, Charleston, My Favourite Things, Gold Tap, Choo Choo Ch'boogie, Make 'em Laugh, The Tapioca, Let's Pretend, Blue Danube]
+Time elapsed so far: 48 ms
+
+Generating random order. Checking for feasiblity
+[Blue Danube, Bye Bye Blackbird, Good Morning, Make 'em Laugh, I Dreamed a Dream, Yankee Doodle, Singing in the Rain, Silver Tap, Choo Choo Ch'boogie, Thoroughly Modern Milly, The Tapioca, The Music of the Night]
+Time elapsed so far: 49 ms
+
+Generating random order. Checking for feasiblity
+[I Got Rhythm, Chicken Song, What a Feeling, Make 'em Laugh, Step In Time, Cell Block Tango, Yankee Doodle, Masquerade, Choo Choo Ch'boogie, Good Morning, The Music of the Night, My Favourite Things]
+Time elapsed so far: 49 ms
+
+Generating random order. Checking for feasiblity
+[Bronze Tap, I Dreamed a Dream, Bye Bye Blackbird, I Could Have Dance All Night, What a Feeling, Make 'em Laugh, Chicken Song, Jewish Wedding Song, My Favourite Things, The Music of the Night, The Tapioca, Charleston]
+Time elapsed so far: 50 ms
+
+Generating random order. Checking for feasiblity
+[Charleston, Alice in Disney Land, Make 'em Laugh, Cell Block Tango, Bye Bye Blackbird, What a Feeling, Supercalifragilisticexpialidocious, Jewish Wedding Song, I Could Have Dance All Night, Choo Choo Ch'boogie, Good Morning, Step In Time]
+Time elapsed so far: 50 ms
+
+Generating random order. Checking for feasiblity
+[The Tapioca, A Spoonful of Sugar, Gold Tap, Juvenile Tap, Masquerade, Alice in Disney Land, I Dreamed a Dream, Charleston, Blue Danube, The Candy Man Can, The Music of the Night, Choo Choo Ch'boogie]
+Time elapsed so far: 50 ms
+
+Generating random order. Checking for feasiblity
+[Make 'em Laugh, A Spoonful of Sugar, I Could Have Dance All Night, My Favourite Things, The Music of the Night, Thoroughly Modern Milly, Do you Hear the People Sing, The Candy Man Can, Gold Tap, Bronze Tap, Chicken Song, Step In Time]
+Time elapsed so far: 51 ms
+
+Generating random order. Checking for feasiblity
+[Do you Hear the People Sing, Jewish Wedding Song, Supercalifragilisticexpialidocious, Bye Bye Blackbird, What a Feeling, My Favourite Things, Blue Danube, I Could Have Dance All Night, Alice in Disney Land, Step In Time, The Tapioca, The Music of the Night]
+Time elapsed so far: 51 ms
+
+Generating random order. Checking for feasiblity
+[All That Jazz, The Candy Man Can, Doe-Re-Mi, Memory, Yankee Doodle, I Could Have Dance All Night, Gold Tap, Silver Tap, Step In Time, Bronze Tap, Let's Pretend, Bye Bye Blackbird]
+Time elapsed so far: 52 ms
+
+Generating random order. Checking for feasiblity
+[What a Feeling, Thoroughly Modern Milly, My Favourite Things, Gold Tap, I Could Have Dance All Night, Good Morning, Do you Hear the People Sing, All That Jazz, I Dreamed a Dream, Juvenile Tap, Bye Bye Blackbird, Alice in Disney Land]
+Time elapsed so far: 52 ms
+
+Generating random order. Checking for feasiblity
+[My Favourite Things, Bye Bye Blackbird, Cell Block Tango, Masquerade, I Got Rhythm, Charleston, Gold Tap, Choo Choo Ch'boogie, Thoroughly Modern Milly, What a Feeling, Yankee Doodle, Chicken Song]
+Time elapsed so far: 53 ms
+
+Generating random order. Checking for feasiblity
+[Memory, Silver Tap, Doe-Re-Mi, Gold Tap, Make 'em Laugh, The Candy Man Can, The Music of the Night, I Dreamed a Dream, Let's Pretend, Charleston, Chicken Song, Alice in Disney Land]
+Time elapsed so far: 53 ms
+
+Generating random order. Checking for feasiblity
+[A Spoonful of Sugar, I Dreamed a Dream, Make 'em Laugh, Chicken Song, Blue Danube, Let's Pretend, Thoroughly Modern Milly, Yankee Doodle, Masquerade, Any Dream Will Do, Juvenile Tap, Gold Tap]
+Time elapsed so far: 53 ms
+
+Generating random order. Checking for feasiblity
+[Bye Bye Blackbird, What a Feeling, Thoroughly Modern Milly, I Got Rhythm, Any Dream Will Do, Do you Hear the People Sing, Singing in the Rain, Memory, Alice in Disney Land, A Spoonful of Sugar, Juvenile Tap, Supercalifragilisticexpialidocious]
+Time elapsed so far: 54 ms
+
+Generating random order. Checking for feasiblity
+[The Tapioca, Memory, All That Jazz, Cell Block Tango, Charleston, The Candy Man Can, Any Dream Will Do, Masquerade, Thoroughly Modern Milly, A Spoonful of Sugar, I Could Have Dance All Night, What a Feeling]
+Time elapsed so far: 54 ms
+
+Generating random order. Checking for feasiblity
+[Bye Bye Blackbird, Jazz Baby, Thoroughly Modern Milly, Charleston, The Music of the Night, Any Dream Will Do, I Dreamed a Dream, A Spoonful of Sugar, The Candy Man Can, I Got Rhythm, Jewish Wedding Song, All That Jazz]
+Time elapsed so far: 55 ms
+
+Generating random order. Checking for feasiblity
+[A Spoonful of Sugar, Jewish Wedding Song, Do you Hear the People Sing, Make 'em Laugh, Memory, Jazz Baby, Thoroughly Modern Milly, Any Dream Will Do, Cell Block Tango, Gold Tap, Alice in Disney Land, Juvenile Tap]
+Time elapsed so far: 55 ms
+
+Generating random order. Checking for feasiblity
+[Make 'em Laugh, I Dreamed a Dream, Supercalifragilisticexpialidocious, Thoroughly Modern Milly, The Music of the Night, Memory, Good Morning, Jewish Wedding Song, Cell Block Tango, Masquerade, Choo Choo Ch'boogie, I Could Have Dance All Night]
+Time elapsed so far: 57 ms
+
+Generating random order. Checking for feasiblity
+[What a Feeling, Let's Pretend, Bronze Tap, Chicken Song, Jewish Wedding Song, I Could Have Dance All Night, Blue Danube, All That Jazz, Doe-Re-Mi, Cell Block Tango, A Spoonful of Sugar, The Candy Man Can]
+Time elapsed so far: 63 ms
+
+Generating random order. Checking for feasiblity
+[Jazz Baby, Alice in Disney Land, Let's Pretend, All That Jazz, Do you Hear the People Sing, Doe-Re-Mi, The Candy Man Can, Step In Time, Make 'em Laugh, I Could Have Dance All Night, Choo Choo Ch'boogie, Memory]
+Time elapsed so far: 64 ms
+
+Generating random order. Checking for feasiblity
+[Supercalifragilisticexpialidocious, Good Morning, Bronze Tap, Cell Block Tango, Charleston, Thoroughly Modern Milly, Chicken Song, Choo Choo Ch'boogie, Memory, I Could Have Dance All Night, Silver Tap, Blue Danube]
+Time elapsed so far: 64 ms
+
+Generating random order. Checking for feasiblity
+[Any Dream Will Do, Make 'em Laugh, Bye Bye Blackbird, I Got Rhythm, Chicken Song, Jazz Baby, Let's Pretend, What a Feeling, Choo Choo Ch'boogie, Good Morning, Jewish Wedding Song, Blue Danube]
+Time elapsed so far: 64 ms
+
+Generating random order. Checking for feasiblity
+[Jazz Baby, Good Morning, What a Feeling, Jewish Wedding Song, I Dreamed a Dream, Bye Bye Blackbird, The Tapioca, The Music of the Night, Any Dream Will Do, I Could Have Dance All Night, All That Jazz, Blue Danube]
+Time elapsed so far: 65 ms
+
+Generating random order. Checking for feasiblity
+[Silver Tap, Bye Bye Blackbird, Doe-Re-Mi, Masquerade, Any Dream Will Do, Thoroughly Modern Milly, Juvenile Tap, Cell Block Tango, Memory, Blue Danube, Supercalifragilisticexpialidocious, Yankee Doodle]
+Time elapsed so far: 65 ms
+
+Generating random order. Checking for feasiblity
+[Alice in Disney Land, Silver Tap, Jazz Baby, Singing in the Rain, Bronze Tap, Step In Time, Make 'em Laugh, Blue Danube, I Could Have Dance All Night, Bye Bye Blackbird, All That Jazz, Gold Tap]
+Time elapsed so far: 66 ms
+
+Generating random order. Checking for feasiblity
+[Cell Block Tango, Let's Pretend, Blue Danube, Supercalifragilisticexpialidocious, Charleston, Do you Hear the People Sing, All That Jazz, I Dreamed a Dream, Step In Time, Singing in the Rain, My Favourite Things, Bronze Tap]
+Time elapsed so far: 66 ms
+
+Generating random order. Checking for feasiblity
+[Jazz Baby, Yankee Doodle, Silver Tap, Good Morning, Cell Block Tango, Singing in the Rain, Supercalifragilisticexpialidocious, My Favourite Things, Bronze Tap, Charleston, Doe-Re-Mi, Memory]
+Time elapsed so far: 67 ms
+
+Generating random order. Checking for feasiblity
+[Step In Time, Do you Hear the People Sing, Cell Block Tango, Bye Bye Blackbird, Let's Pretend, Juvenile Tap, Masquerade, Thoroughly Modern Milly, Jazz Baby, A Spoonful of Sugar, Yankee Doodle, Doe-Re-Mi]
+Time elapsed so far: 67 ms
+
+Generating random order. Checking for feasiblity
+[Juvenile Tap, Alice in Disney Land, Gold Tap, I Could Have Dance All Night, Charleston, Let's Pretend, Singing in the Rain, I Dreamed a Dream, The Music of the Night, Masquerade, Jazz Baby, All That Jazz]
+Time elapsed so far: 68 ms
+
+Generating random order. Checking for feasiblity
+[The Candy Man Can, Doe-Re-Mi, The Tapioca, Jewish Wedding Song, Choo Choo Ch'boogie, My Favourite Things, Make 'em Laugh, Silver Tap, Any Dream Will Do, Chicken Song, Bye Bye Blackbird, Singing in the Rain]
+Time elapsed so far: 68 ms
+
+Generating random order. Checking for feasiblity
+[Alice in Disney Land, Choo Choo Ch'boogie, Doe-Re-Mi, Memory, Thoroughly Modern Milly, Masquerade, Gold Tap, All That Jazz, I Got Rhythm, Good Morning, Yankee Doodle, A Spoonful of Sugar]
+Time elapsed so far: 69 ms
+
+Generating random order. Checking for feasiblity
+[My Favourite Things, Silver Tap, Masquerade, Bye Bye Blackbird, Yankee Doodle, What a Feeling, Gold Tap, Bronze Tap, Alice in Disney Land, Singing in the Rain, Chicken Song, The Tapioca]
+Time elapsed so far: 70 ms
+
+Generating random order. Checking for feasiblity
+[Chicken Song, Singing in the Rain, Yankee Doodle, Cell Block Tango, Bye Bye Blackbird, Masquerade, Alice in Disney Land, Do you Hear the People Sing, I Could Have Dance All Night, Step In Time, Let's Pretend, What a Feeling]
+Time elapsed so far: 70 ms
+
+Generating random order. Checking for feasiblity
+[Chicken Song, The Tapioca, Gold Tap, I Dreamed a Dream, Bye Bye Blackbird, A Spoonful of Sugar, Step In Time, The Music of the Night, Any Dream Will Do, Silver Tap, Blue Danube, My Favourite Things]
+Time elapsed so far: 71 ms
+
+Generating random order. Checking for feasiblity
+[Blue Danube, The Candy Man Can, Chicken Song, Memory, Bronze Tap, Silver Tap, Juvenile Tap, All That Jazz, Do you Hear the People Sing, The Tapioca, Singing in the Rain, Yankee Doodle]
+Time elapsed so far: 72 ms
+
+Generating random order. Checking for feasiblity
+[Jewish Wedding Song, Chicken Song, Memory, Step In Time, Gold Tap, Choo Choo Ch'boogie, The Music of the Night, Bronze Tap, Cell Block Tango, All That Jazz, Do you Hear the People Sing, I Dreamed a Dream]
+Time elapsed so far: 72 ms
+
+Generating random order. Checking for feasiblity
+[Juvenile Tap, I Dreamed a Dream, Bronze Tap, Jazz Baby, Any Dream Will Do, The Tapioca, Make 'em Laugh, Yankee Doodle, Bye Bye Blackbird, Cell Block Tango, Thoroughly Modern Milly, Blue Danube]
+Time elapsed so far: 75 ms
+
+Generating random order. Checking for feasiblity
+[Do you Hear the People Sing, I Dreamed a Dream, The Tapioca, Juvenile Tap, Bronze Tap, I Got Rhythm, All That Jazz, Blue Danube, I Could Have Dance All Night, Make 'em Laugh, Cell Block Tango, Singing in the Rain]
+Time elapsed so far: 76 ms
+
+Generating random order. Checking for feasiblity
+[Do you Hear the People Sing, Singing in the Rain, Step In Time, Yankee Doodle, Any Dream Will Do, The Candy Man Can, Bye Bye Blackbird, Let's Pretend, Blue Danube, Thoroughly Modern Milly, Chicken Song, Memory]
+Time elapsed so far: 77 ms
+
+Generating random order. Checking for feasiblity
+[I Got Rhythm, Masquerade, Jewish Wedding Song, The Music of the Night, The Tapioca, Singing in the Rain, Chicken Song, Gold Tap, Memory, My Favourite Things, Thoroughly Modern Milly, Good Morning]
+Time elapsed so far: 77 ms
+
+Generating random order. Checking for feasiblity
+[The Music of the Night, Silver Tap, Let's Pretend, Thoroughly Modern Milly, Bye Bye Blackbird, What a Feeling, Make 'em Laugh, I Could Have Dance All Night, Jewish Wedding Song, Cell Block Tango, Bronze Tap, All That Jazz]
+Time elapsed so far: 77 ms
+
+Generating random order. Checking for feasiblity
+[All That Jazz, Gold Tap, Masquerade, Make 'em Laugh, Thoroughly Modern Milly, Blue Danube, A Spoonful of Sugar, The Music of the Night, Charleston, Silver Tap, Do you Hear the People Sing, My Favourite Things]
+Time elapsed so far: 78 ms
+
+Generating random order. Checking for feasiblity
+[Thoroughly Modern Milly, My Favourite Things, What a Feeling, Yankee Doodle, Do you Hear the People Sing, Silver Tap, Step In Time, Memory, Jazz Baby, Masquerade, I Got Rhythm, Gold Tap]
+Time elapsed so far: 78 ms
+
+Generating random order. Checking for feasiblity
+[Bronze Tap, I Dreamed a Dream, Jewish Wedding Song, Alice in Disney Land, Do you Hear the People Sing, Yankee Doodle, Silver Tap, All That Jazz, Chicken Song, A Spoonful of Sugar, Thoroughly Modern Milly, Jazz Baby]
+Time elapsed so far: 79 ms
+
+Generating random order. Checking for feasiblity
+[Supercalifragilisticexpialidocious, Alice in Disney Land, Thoroughly Modern Milly, Juvenile Tap, Gold Tap, Choo Choo Ch'boogie, Make 'em Laugh, The Candy Man Can, Singing in the Rain, Doe-Re-Mi, Silver Tap, Jazz Baby]
+Time elapsed so far: 79 ms
+
+Generating random order. Checking for feasiblity
+[Any Dream Will Do, I Got Rhythm, A Spoonful of Sugar, Thoroughly Modern Milly, Singing in the Rain, I Dreamed a Dream, Cell Block Tango, The Candy Man Can, My Favourite Things, Supercalifragilisticexpialidocious, Charleston, Bye Bye Blackbird]
+Time elapsed so far: 80 ms
+
+Generating random order. Checking for feasiblity
+[Blue Danube, Charleston, Cell Block Tango, Silver Tap, Memory, Doe-Re-Mi, Supercalifragilisticexpialidocious, Alice in Disney Land, I Got Rhythm, Bye Bye Blackbird, I Dreamed a Dream, Thoroughly Modern Milly]
+Time elapsed so far: 80 ms
+
+Generating random order. Checking for feasiblity
+[My Favourite Things, Doe-Re-Mi, Alice in Disney Land, Blue Danube, Juvenile Tap, I Could Have Dance All Night, Good Morning, Masquerade, Any Dream Will Do, Singing in the Rain, Bye Bye Blackbird, Step In Time]
+Time elapsed so far: 86 ms
+
+Generating random order. Checking for feasiblity
+[Gold Tap, Juvenile Tap, I Dreamed a Dream, Silver Tap, Step In Time, Yankee Doodle, Singing in the Rain, Good Morning, Doe-Re-Mi, Supercalifragilisticexpialidocious, Any Dream Will Do, Make 'em Laugh]
+Time elapsed so far: 87 ms
+
+Generating random order. Checking for feasiblity
+[Singing in the Rain, Jazz Baby, Masquerade, Do you Hear the People Sing, Let's Pretend, What a Feeling, My Favourite Things, Charleston, Good Morning, Silver Tap, Step In Time, Make 'em Laugh]
+Time elapsed so far: 88 ms
+
+Generating random order. Checking for feasiblity
+[Yankee Doodle, Chicken Song, Make 'em Laugh, Good Morning, Silver Tap, Do you Hear the People Sing, Supercalifragilisticexpialidocious, My Favourite Things, Jazz Baby, What a Feeling, Charleston, Any Dream Will Do]
+Time elapsed so far: 89 ms
+
+Generating random order. Checking for feasiblity
+[Cell Block Tango, Gold Tap, The Tapioca, The Music of the Night, Any Dream Will Do, Chicken Song, I Got Rhythm, I Could Have Dance All Night, Make 'em Laugh, Do you Hear the People Sing, Blue Danube, Silver Tap]
+Time elapsed so far: 92 ms
+
+Generating random order. Checking for feasiblity
+[Jazz Baby, A Spoonful of Sugar, Memory, Chicken Song, I Got Rhythm, Thoroughly Modern Milly, Alice in Disney Land, Do you Hear the People Sing, Make 'em Laugh, Bye Bye Blackbird, Charleston, Gold Tap]
+Time elapsed so far: 93 ms
+
+Generating random order. Checking for feasiblity
+[Chicken Song, The Candy Man Can, The Music of the Night, All That Jazz, Step In Time, The Tapioca, Cell Block Tango, Doe-Re-Mi, Memory, Any Dream Will Do, My Favourite Things, Make 'em Laugh]
+Time elapsed so far: 93 ms
+
+Generating random order. Checking for feasiblity
+[Memory, Juvenile Tap, Chicken Song, Alice in Disney Land, I Dreamed a Dream, The Candy Man Can, Bye Bye Blackbird, Cell Block Tango, Let's Pretend, Silver Tap, What a Feeling, My Favourite Things]
+Time elapsed so far: 94 ms
+
+Generating random order. Checking for feasiblity
+[Any Dream Will Do, The Candy Man Can, Memory, Good Morning, All That Jazz, Do you Hear the People Sing, Step In Time, Blue Danube, Charleston, Masquerade, The Music of the Night, Bye Bye Blackbird]
+Time elapsed so far: 95 ms
+
+Generating random order. Checking for feasiblity
+[Charleston, Chicken Song, Thoroughly Modern Milly, Alice in Disney Land, Jewish Wedding Song, Gold Tap, Do you Hear the People Sing, Juvenile Tap, Doe-Re-Mi, Let's Pretend, Yankee Doodle, Masquerade]
+Time elapsed so far: 95 ms
+
+Generating random order. Checking for feasiblity
+[Doe-Re-Mi, Gold Tap, Let's Pretend, Bronze Tap, The Music of the Night, Do you Hear the People Sing, Blue Danube, Alice in Disney Land, Make 'em Laugh, Bye Bye Blackbird, Good Morning, All That Jazz]
+Time elapsed so far: 96 ms
+
+Generating random order. Checking for feasiblity
+[Singing in the Rain, The Tapioca, Silver Tap, All That Jazz, I Got Rhythm, Jewish Wedding Song, Juvenile Tap, Choo Choo Ch'boogie, I Dreamed a Dream, Any Dream Will Do, Doe-Re-Mi, My Favourite Things]
+Time elapsed so far: 96 ms
+
+Generating random order. Checking for feasiblity
+[My Favourite Things, Silver Tap, Supercalifragilisticexpialidocious, Doe-Re-Mi, I Could Have Dance All Night, What a Feeling, Memory, Do you Hear the People Sing, Let's Pretend, Any Dream Will Do, Good Morning, Blue Danube]
+Time elapsed so far: 97 ms
+
+Generating random order. Checking for feasiblity
+[Doe-Re-Mi, Supercalifragilisticexpialidocious, Masquerade, Blue Danube, Any Dream Will Do, Let's Pretend, I Could Have Dance All Night, Juvenile Tap, Do you Hear the People Sing, Yankee Doodle, Make 'em Laugh, Step In Time]
+Time elapsed so far: 98 ms
+
+Generating random order. Checking for feasiblity
+[Supercalifragilisticexpialidocious, Singing in the Rain, Juvenile Tap, Cell Block Tango, Do you Hear the People Sing, All That Jazz, Alice in Disney Land, Thoroughly Modern Milly, Let's Pretend, Any Dream Will Do, Bye Bye Blackbird, Good Morning]
+Time elapsed so far: 98 ms
+
+Generating random order. Checking for feasiblity
+[Make 'em Laugh, Blue Danube, What a Feeling, Chicken Song, Choo Choo Ch'boogie, Juvenile Tap, The Candy Man Can, Gold Tap, Thoroughly Modern Milly, Masquerade, Jazz Baby, Singing in the Rain]
+Time elapsed so far: 98 ms
+
+Generating random order. Checking for feasiblity
+[Doe-Re-Mi, Let's Pretend, Memory, Jewish Wedding Song, A Spoonful of Sugar, All That Jazz, Bronze Tap, Make 'em Laugh, I Dreamed a Dream, Supercalifragilisticexpialidocious, What a Feeling, Masquerade]
+Time elapsed so far: 99 ms
+
+Generating random order. Checking for feasiblity
+[Yankee Doodle, I Dreamed a Dream, Good Morning, Singing in the Rain, Do you Hear the People Sing, The Tapioca, Cell Block Tango, Supercalifragilisticexpialidocious, Thoroughly Modern Milly, My Favourite Things, Bye Bye Blackbird, Bronze Tap]
+Time elapsed so far: 99 ms
+
+Generating random order. Checking for feasiblity
+[I Could Have Dance All Night, Masquerade, Singing in the Rain, Silver Tap, Gold Tap, I Got Rhythm, Bye Bye Blackbird, I Dreamed a Dream, Step In Time, A Spoonful of Sugar, My Favourite Things, Charleston]
+Time elapsed so far: 100 ms
+
+Generating random order. Checking for feasiblity
+[Choo Choo Ch'boogie, Gold Tap, The Candy Man Can, Silver Tap, All That Jazz, Jazz Baby, Masquerade, I Got Rhythm, The Music of the Night, Cell Block Tango, Singing in the Rain, Alice in Disney Land]
+Time elapsed so far: 100 ms
+
+Generating random order. Checking for feasiblity
+[Alice in Disney Land, Good Morning, Yankee Doodle, What a Feeling, Chicken Song, Blue Danube, Let's Pretend, Choo Choo Ch'boogie, Doe-Re-Mi, I Got Rhythm, Cell Block Tango, Gold Tap]
+Time elapsed so far: 100 ms
+
+Generating random order. Checking for feasiblity
+[Bronze Tap, Alice in Disney Land, Any Dream Will Do, What a Feeling, Memory, Supercalifragilisticexpialidocious, I Got Rhythm, Doe-Re-Mi, I Could Have Dance All Night, Cell Block Tango, Choo Choo Ch'boogie, Thoroughly Modern Milly]
+Time elapsed so far: 101 ms
+
+Generating random order. Checking for feasiblity
+[Bronze Tap, Jazz Baby, Cell Block Tango, Blue Danube, Gold Tap, Charleston, All That Jazz, Masquerade, A Spoonful of Sugar, The Tapioca, Bye Bye Blackbird, I Got Rhythm]
+Time elapsed so far: 101 ms
+
+Generating random order. Checking for feasiblity
+[Thoroughly Modern Milly, The Tapioca, Charleston, Choo Choo Ch'boogie, Singing in the Rain, What a Feeling, A Spoonful of Sugar, Masquerade, Jazz Baby, The Music of the Night, Step In Time, I Got Rhythm]
+Time elapsed so far: 101 ms
+
+Generating random order. Checking for feasiblity
+[Bye Bye Blackbird, Alice in Disney Land, Jazz Baby, I Could Have Dance All Night, Let's Pretend, I Dreamed a Dream, Juvenile Tap, Cell Block Tango, The Candy Man Can, The Music of the Night, I Got Rhythm, My Favourite Things]
+Time elapsed so far: 102 ms
+
+Generating random order. Checking for feasiblity
+[I Dreamed a Dream, Singing in the Rain, Do you Hear the People Sing, Blue Danube, Good Morning, Memory, The Candy Man Can, Supercalifragilisticexpialidocious, Gold Tap, Any Dream Will Do, Silver Tap, The Music of the Night]
+Time elapsed so far: 103 ms
+
+Generating random order. Checking for feasiblity
+[Good Morning, Make 'em Laugh, My Favourite Things, Singing in the Rain, The Candy Man Can, I Dreamed a Dream, Charleston, Thoroughly Modern Milly, Blue Danube, Jazz Baby, Do you Hear the People Sing, Masquerade]
+Time elapsed so far: 103 ms
+
+Generating random order. Checking for feasiblity
+[Step In Time, Any Dream Will Do, Supercalifragilisticexpialidocious, Charleston, Yankee Doodle, Bye Bye Blackbird, Doe-Re-Mi, The Candy Man Can, Bronze Tap, Cell Block Tango, Alice in Disney Land, I Got Rhythm]
+Time elapsed so far: 104 ms
+
+Generating random order. Checking for feasiblity
+[Bronze Tap, Yankee Doodle, I Could Have Dance All Night, Charleston, Alice in Disney Land, Thoroughly Modern Milly, The Tapioca, The Music of the Night, Supercalifragilisticexpialidocious, Jewish Wedding Song, Blue Danube, All That Jazz]
+Time elapsed so far: 113 ms
+
+Generating random order. Checking for feasiblity
+[I Could Have Dance All Night, Silver Tap, Supercalifragilisticexpialidocious, Choo Choo Ch'boogie, Alice in Disney Land, Do you Hear the People Sing, Jewish Wedding Song, Juvenile Tap, Masquerade, Doe-Re-Mi, What a Feeling, Good Morning]
+Time elapsed so far: 113 ms
+
+Generating random order. Checking for feasiblity
+[Alice in Disney Land, Jewish Wedding Song, Cell Block Tango, Masquerade, Gold Tap, A Spoonful of Sugar, Singing in the Rain, The Tapioca, Blue Danube, Doe-Re-Mi, What a Feeling, Good Morning]
+Time elapsed so far: 114 ms
+
+Generating random order. Checking for feasiblity
+[All That Jazz, Charleston, Yankee Doodle, The Tapioca, Let's Pretend, A Spoonful of Sugar, Make 'em Laugh, What a Feeling, I Dreamed a Dream, Chicken Song, Good Morning, Blue Danube]
+Time elapsed so far: 114 ms
+
+Generating random order. Checking for feasiblity
+[A Spoonful of Sugar, Juvenile Tap, The Music of the Night, Jazz Baby, Doe-Re-Mi, I Dreamed a Dream, Bronze Tap, What a Feeling, Make 'em Laugh, Cell Block Tango, Bye Bye Blackbird, Yankee Doodle]
+Time elapsed so far: 114 ms
+
+Generating random order. Checking for feasiblity
+[The Tapioca, Thoroughly Modern Milly, What a Feeling, Juvenile Tap, I Got Rhythm, My Favourite Things, Chicken Song, A Spoonful of Sugar, Let's Pretend, Gold Tap, The Music of the Night, Silver Tap]
+Time elapsed so far: 115 ms
+
+Generating random order. Checking for feasiblity
+[Let's Pretend, I Dreamed a Dream, The Candy Man Can, Any Dream Will Do, I Could Have Dance All Night, My Favourite Things, Bye Bye Blackbird, Supercalifragilisticexpialidocious, Cell Block Tango, Thoroughly Modern Milly, Jazz Baby, Jewish Wedding Song]
+Time elapsed so far: 115 ms
+
+Generating random order. Checking for feasiblity
+[Alice in Disney Land, Do you Hear the People Sing, Step In Time, Gold Tap, Jazz Baby, Masquerade, Make 'em Laugh, Singing in the Rain, I Dreamed a Dream, I Could Have Dance All Night, Supercalifragilisticexpialidocious, The Candy Man Can]
+Time elapsed so far: 116 ms
+
+Generating random order. Checking for feasiblity
+[Silver Tap, Good Morning, Yankee Doodle, I Dreamed a Dream, Jazz Baby, The Tapioca, What a Feeling, Step In Time, Doe-Re-Mi, Do you Hear the People Sing, Chicken Song, Cell Block Tango]
+Time elapsed so far: 116 ms
+
+Generating random order. Checking for feasiblity
+[The Music of the Night, Thoroughly Modern Milly, Juvenile Tap, Alice in Disney Land, Memory, Do you Hear the People Sing, I Could Have Dance All Night, What a Feeling, I Dreamed a Dream, Good Morning, Step In Time, My Favourite Things]
+Time elapsed so far: 116 ms
+
+Generating random order. Checking for feasiblity
+[I Got Rhythm, Memory, Cell Block Tango, A Spoonful of Sugar, Doe-Re-Mi, Jazz Baby, Bye Bye Blackbird, I Dreamed a Dream, All That Jazz, Singing in the Rain, Choo Choo Ch'boogie, Juvenile Tap]
+Time elapsed so far: 117 ms
+
+Generating random order. Checking for feasiblity
+[Any Dream Will Do, The Music of the Night, I Got Rhythm, Let's Pretend, Bye Bye Blackbird, Jewish Wedding Song, Choo Choo Ch'boogie, Silver Tap, I Could Have Dance All Night, Thoroughly Modern Milly, Doe-Re-Mi, Make 'em Laugh]
+Time elapsed so far: 117 ms
+
+Generating random order. Checking for feasiblity
+[Charleston, Step In Time, Any Dream Will Do, What a Feeling, The Candy Man Can, Bye Bye Blackbird, Cell Block Tango, Doe-Re-Mi, Supercalifragilisticexpialidocious, Choo Choo Ch'boogie, I Could Have Dance All Night, Jewish Wedding Song]
+Time elapsed so far: 117 ms
+
+Generating random order. Checking for feasiblity
+[Silver Tap, Singing in the Rain, Bronze Tap, Make 'em Laugh, The Candy Man Can, Jewish Wedding Song, Blue Danube, Chicken Song, Bye Bye Blackbird, Do you Hear the People Sing, Let's Pretend, Charleston]
+Time elapsed so far: 118 ms
+
+Generating random order. Checking for feasiblity
+[Singing in the Rain, All That Jazz, Jewish Wedding Song, Thoroughly Modern Milly, Memory, Bronze Tap, Yankee Doodle, Alice in Disney Land, Charleston, Masquerade, My Favourite Things, Do you Hear the People Sing]
+Time elapsed so far: 118 ms
+
+Generating random order. Checking for feasiblity
+[I Dreamed a Dream, Supercalifragilisticexpialidocious, What a Feeling, Chicken Song, Do you Hear the People Sing, Jewish Wedding Song, Memory, Alice in Disney Land, Choo Choo Ch'boogie, Blue Danube, I Got Rhythm, Good Morning]
+Time elapsed so far: 119 ms
+
+Generating random order. Checking for feasiblity
+[Do you Hear the People Sing, Choo Choo Ch'boogie, Thoroughly Modern Milly, Let's Pretend, Good Morning, The Candy Man Can, Chicken Song, My Favourite Things, Memory, I Dreamed a Dream, Juvenile Tap, A Spoonful of Sugar]
+Time elapsed so far: 120 ms
+
+Generating random order. Checking for feasiblity
+[Bye Bye Blackbird, Good Morning, Let's Pretend, I Could Have Dance All Night, Choo Choo Ch'boogie, The Tapioca, Any Dream Will Do, I Dreamed a Dream, Cell Block Tango, Jewish Wedding Song, Alice in Disney Land, Blue Danube]
+Time elapsed so far: 120 ms
+
+Generating random order. Checking for feasiblity
+[Bronze Tap, Chicken Song, A Spoonful of Sugar, The Music of the Night, Gold Tap, Memory, Supercalifragilisticexpialidocious, Step In Time, Silver Tap, Yankee Doodle, I Could Have Dance All Night, All That Jazz]
+Time elapsed so far: 121 ms
+
+Generating random order. Checking for feasiblity
+[A Spoonful of Sugar, Silver Tap, I Could Have Dance All Night, Let's Pretend, Jewish Wedding Song, Any Dream Will Do, Charleston, Jazz Baby, I Dreamed a Dream, Do you Hear the People Sing, Chicken Song, Doe-Re-Mi]
+Time elapsed so far: 122 ms
+
+Order is suitable
+A Spoonful of Sugar
+Silver Tap
+I Could Have Dance All Night
+Let's Pretend
+Jewish Wedding Song
+Any Dream Will Do
+Charleston
+Jazz Baby
+I Dreamed a Dream
+Do you Hear the People Sing
+Chicken Song
+Doe-Re-Mi
