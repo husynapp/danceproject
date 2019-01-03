@@ -5,6 +5,8 @@ package astaire;
 
 import java.util.Scanner;
 
+import exceptions.InvalidDanceNameException;
+
 /**
  * A simple text-based user interface for the dance show programme generator.
  * 
@@ -46,7 +48,12 @@ public class TUI {
 		case "1": // Lists all dancers in a dance
 			display("Lists all dancers in a dance...");
 			display("Enter the name of the required dance:");
-			display(controller.listAllDancersIn(stdIn.nextLine().trim()));
+			try {
+				display(controller.listAllDancersIn(stdIn.nextLine().trim()));
+			} catch (InvalidDanceNameException e1) {
+				// TODO Auto-generated catch block
+				display("Please enter a valid dance name. Check spellings");
+			}
 			break;
 		case "2": // Lists all dances and respective dancers
 			display("Lists all dance numbers and the respective dancers...");

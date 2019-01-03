@@ -3,6 +3,8 @@
  */
 package astaire;
 
+import exceptions.InvalidDanceNameException;
+
 /**
  * A controller for the dance show programme generator system.
  * This controller includes the 4 features that the intended
@@ -17,8 +19,9 @@ public interface Controller {
 	 * Lists the names of all performers in a specified dance.
 	 * @param dance	a specified dance in the dance show
 	 * @return the name of all performers that are in the specified dance. 
+	 * @throws InvalidDanceNameException 
 	 */
-	String listAllDancersIn(String dance);
+	String listAllDancersIn(String dance) throws InvalidDanceNameException;
 	
 	/**
 	 * Lists all dance numbers and the name of the respective performers in alphabetical order.

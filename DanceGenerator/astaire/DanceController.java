@@ -1,5 +1,13 @@
 package astaire;
 
+import exceptions.InvalidDanceNameException;
+
+/**
+ * Implementation of the interface Controller.
+ * @author Abdullah
+ * @version 02/01/2019
+ */
+
 public class DanceController implements Controller {
 	DanceList dances;
 	
@@ -8,22 +16,39 @@ public class DanceController implements Controller {
 	}
 
 	@Override
-	public String listAllDancersIn(String dance) {
-			
-		return dances.getPerformers(dance).toString();
+	public String listAllDancersIn(String dance) throws InvalidDanceNameException {			
+			String dancers = dances.searchSelectedPerformers(dance).toString();
+			String[] splitResult = dancers.split(",");
+			String result = "Performers in " + dance + " are: \n";
+			int tabCount = 1;
+			for(int index = 0; index < splitResult.length; index ++) {
+				result += splitResult[index];
+				result +="\n";
+				for(int j =0; j <tabCount; j++) {
+					result+= "\t";
+				}
 
+				tabCount++;
+			}
+			
+			return result;
+			
 	}
+	
 
 	@Override
 	public String listAllDancesAndPerformers() {
 	
-//		return dances.getFullDanceList().toString();
 		return formatText();
 	}
 	
+	/**
+	 * Helper method to print data
+	 * @return 		Formatted String where it's more readable
+	 */
 	private String formatText() {
 		String list = dances.getFullDanceList().toString();
-		String[] split = list.split("],");
+		String[] split = list.split("], ");
 		String result = "";
 		for (int index = 0; index < split.length; index++) {
 			result += split[index];
