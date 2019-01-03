@@ -25,7 +25,7 @@ public class DanceList {
 	 * method addRemainigMembers() to replace the group names to member names
 	 */
 	public DanceList() {
-		ParseCSV danceCSV = new ParseCSV("astaireDataFiles/danceShowData_dances.csv", false);
+		ParseCSV danceCSV = new ParseCSV("astaireDataFiles/danceShowData_dances.csv", true);
 		danceAndPerformers_ = new TreeMap<String, ArrayList<String>>();
 		danceAndPerformers_ = danceCSV.getTreeMap();
 		replaceGroupWithPerformers();

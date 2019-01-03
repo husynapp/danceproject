@@ -3,6 +3,8 @@
  */
 package astaire;
 
+import java.io.IOException;
+
 import exceptions.InvalidDanceNameException;
 
 /**
@@ -35,14 +37,17 @@ public interface Controller {
 	 * @param filename	the name of a tab-separated CSV file containing a proposed running order
 	 * @param gaps the required number of gaps between dances for each dancer
 	 * @return	a String representation of potential issues
+	 * @throws InvalidDanceNameException 
 	 */
-	String checkFeasibilityOfRunningOrder(String filename, int gaps);
+	String checkFeasibilityOfRunningOrder(String filename, int gaps) throws InvalidDanceNameException;
 	
 	/**
 	 * Generates a running order of the dances for the dance show.
 	 * @param gaps the required number of gaps between dances for each dancer
 	 * @param  
 	 * @return	a String representation of the generate running order
+	 * @throws InvalidDanceNameException 
+	 * @throws IOException 
 	 */
-	String generateRunningOrder(int gaps);
+	String generateRunningOrder(int gaps, int numberToGenerate) throws InvalidDanceNameException, IOException;
 }

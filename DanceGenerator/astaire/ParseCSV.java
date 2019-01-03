@@ -9,19 +9,29 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.TreeMap;
-
+/**
+ * 
+ * @author Abdullah
+ * @version 03/01/2019
+ */
 public class ParseCSV {
 	
-	private TreeMap<String, ArrayList<String>> treeMap;
-	private ArrayList<String> danceNames;
+	private TreeMap<String, ArrayList<String>> treeMapOfPerformers_;
+	private ArrayList<String> danceNames_;
 	
 	public ParseCSV(String fileName, boolean isRunningOrder) {
-		treeMap = new TreeMap<String, ArrayList<String>>();
-		danceNames =  new ArrayList<String>();
+		treeMapOfPerformers_ = new TreeMap<String, ArrayList<String>>();
+		danceNames_ =  new ArrayList<String>();
 		readFile(fileName, isRunningOrder);
 	}
 	
-	
+	/**
+	 * Reads the text line by line from a CSV file and calls helper method to add to 
+	 * required data type
+	 * @param fileName			takes in the file name
+	 * @param normalFunction	takes in a boolean value if the function adds everything normally
+	 * or just adds the dance names
+	 */
 	public void readFile(String fileName, boolean normalFunction) {
 		String secondColoumn;
 		String firstColoumn;
@@ -40,11 +50,13 @@ public class ParseCSV {
 				String[] attributes = line.split("\t");
 
 				firstColoumn = attributes[0];
-//				firstColoumn = firstColoumn.trim();
 				secondColoumn = attributes[1];
-//				secondColoumn = secondColoumn.trim();
-						
-				if(normalFunction==false) {
+
+				/**
+				 * Decides according to boolean value if it should add both first coloumn and
+				 * second coloumn, or just first coloumn as the dance names to the arrayList		
+				 */
+				if(normalFunction==true) {
 					addToTreeMap(firstColoumn, secondColoumn);
 				}else {
 					addToArrayList(firstColoumn);
@@ -61,13 +73,13 @@ public class ParseCSV {
 	}
 	
 	private void addToArrayList(String danceName) {
-		this.danceNames.add(danceName.trim());
+		this.danceNames_.add(danceName.trim());
 	}
 	
 	private void addToTreeMap(String name, String performers) {
 		ArrayList<String> arrayList = new ArrayList<String>();
 
-		//Dance newDance = new Dance(tempDance);
+
 		String[] performArray = performers.split(",");
 		
 		Arrays.sort(performArray);
@@ -76,15 +88,15 @@ public class ParseCSV {
 			arrayList.add(performArray[i].trim());
 		}
 
-		treeMap.put(name.trim(), arrayList);
+		treeMapOfPerformers_.put(name.trim(), arrayList);
 	}
 	
 	public TreeMap<String, ArrayList<String>> getTreeMap(){
-		return treeMap;
+		return treeMapOfPerformers_;
 	}
 	
 	public ArrayList<String> getDanceNames(){
-		return danceNames;
+		return danceNames_;
 	}
 
 

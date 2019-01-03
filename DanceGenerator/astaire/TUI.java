@@ -3,6 +3,7 @@
  */
 package astaire;
 
+import java.io.IOException;
 import java.util.Scanner;
 
 import exceptions.InvalidDanceNameException;
@@ -18,7 +19,7 @@ public class TUI {
 	private Controller controller;
 	private Scanner stdIn;
 
-	public TUI(Controller controller) {
+	public TUI(Controller controller) throws InvalidDanceNameException {
 
 		this.controller = controller;
 
@@ -42,7 +43,7 @@ public class TUI {
 	/**
 	 * Obtains an user option and processes it.
 	 */
-	private void getAndProcessUserOption() {
+	private void getAndProcessUserOption() throws InvalidDanceNameException {
 		String command = stdIn.nextLine().trim();
 		switch (command) {
 		case "1": // Lists all dancers in a dance
@@ -74,9 +75,11 @@ public class TUI {
 		case "4": // Generates a running order of all dance numbers
 			display("Generates a running order...");
 			display("Enter the required number of gaps between dances:");
+			display("Enter the number of dances you want in the order:");
 			try {
-				display(controller.generateRunningOrder((new Integer(stdIn.nextLine().trim())).intValue()));
-			} catch (NumberFormatException e) {
+				display(controller.generateRunningOrder((new Integer(stdIn.nextLine().trim())).intValue(),
+						(new Integer(stdIn.nextLine().trim())).intValue()));
+			} catch (NumberFormatException | IOException e) {
 				display("You have not entered the number of gaps as an integer. Sorry, no checking can be done.");
 			}
 			break;

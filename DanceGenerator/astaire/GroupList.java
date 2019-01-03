@@ -20,7 +20,7 @@ public class GroupList {
 	 */
 	public GroupList() {
 		
-		ParseCSV groupsCSV = new ParseCSV("astaireDataFiles/danceShowData_danceGroups.csv", false);
+		ParseCSV groupsCSV = new ParseCSV("astaireDataFiles/danceShowData_danceGroups.csv", true);
 		groupAndPerformers_ = new TreeMap<String, ArrayList<String>>();
 		
 		groupAndPerformers_ = groupsCSV.getTreeMap();
