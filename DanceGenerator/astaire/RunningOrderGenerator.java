@@ -7,7 +7,7 @@ import java.util.TreeMap;
  * @author Abdullah
  * @version 03/02/2019
  */
-public class RunningOrderTester {
+public class RunningOrderGenerator {
 
 	private GenerateRandomNumbers orderCreated_;
 	private ArrayList<String> danceListToTest_;
@@ -18,7 +18,7 @@ public class RunningOrderTester {
 	 * @param max				maximum number of items
 	 * @param requiredNumber	number of items required in the random order
 	 */
-	public RunningOrderTester(int min, int max, int requiredNumber) {
+	public RunningOrderGenerator(int min, int max, int requiredNumber) {
 		danceListToTest_ = new ArrayList<String>();
 		orderCreated_ = new GenerateRandomNumbers(min, max, requiredNumber);
 		generateRunningOrder();

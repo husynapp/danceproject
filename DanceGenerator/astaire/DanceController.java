@@ -16,15 +16,15 @@ import exceptions.InvalidDanceNameException;
  */
 
 public class DanceController implements Controller {
-	private DanceList dances;
+	private DanceList dances_;
 
 	public DanceController() throws InvalidDanceNameException {
-		dances = new DanceList();
+		dances_ = new DanceList();
 	}
 
 	@Override
 	public String listAllDancersIn(String dance) throws InvalidDanceNameException {
-		String dancers = dances.searchSelectedPerformers(dance).toString();
+		String dancers = dances_.searchSelectedPerformers(dance).toString();
 		String[] splitResult = dancers.split(",");
 		String result = "Performers in " + dance + " are: \n";
 		int tabCount = 1;
@@ -54,7 +54,7 @@ public class DanceController implements Controller {
 	 * @return Formatted String where it's more readable
 	 */
 	private String formatText() {
-		String list = dances.getFullDanceList().toString();
+		String list = dances_.getFullDanceList().toString();
 		String[] split = list.split("], ");
 		String result = "";
 		for (int index = 0; index < split.length; index++) {
@@ -79,20 +79,20 @@ public class DanceController implements Controller {
 		String result = "";
 		long startTime = (new Date()).getTime();
 		long elapsedTime = 0;
-
-        File file = new File("outputText.txt");
-        FileWriter fw = null;
+		String fileName = "output-" + numberToGenerate + "-dances-" + gaps + "-gaps.txt";
+		File file = new File(fileName);
+		FileWriter fw = null;
 		try {
 			fw = new FileWriter(file, true);
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
-        BufferedWriter bw = new BufferedWriter(fw);
+		BufferedWriter bw = new BufferedWriter(fw);
 		boolean isComplete = false;
 		while (isComplete == false && elapsedTime < 30000) {
 			FeasibilityChecker feasibility = new FeasibilityChecker();
-			RunningOrderTester runOrder = new RunningOrderTester(0, dances.getFullDanceList().size(), numberToGenerate);
+			RunningOrderGenerator runOrder = new RunningOrderGenerator(0, dances_.getFullDanceList().size(), numberToGenerate);
 			feasibility.addToArrayWithoutCSV(runOrder.getdanceListToTest());
 			feasibility.feasiblityChecker(gaps);
 			isComplete = feasibility.suitable();
@@ -105,26 +105,25 @@ public class DanceController implements Controller {
 			System.out.println("Time elapsed so far: " + elapsedTime + " ms\n");
 			try {
 
-			        // if file doesnt exists, then create it
-		        if (!file.exists()) {
-		            file.createNewFile();
-		        }
+				// if file doesnt exists, then create it
+				if (!file.exists()) {
+					file.createNewFile();
+				}
 
-		
-		        bw.write("Generating random order. Checking for feasiblity" + System.getProperty( "line.separator"));
-		        bw.write(feasibility.getGeneratedOrder().toString() +  System.getProperty( "line.separator"));
-		        bw.write("Time elapsed so far: " + elapsedTime + " ms\n" + System.getProperty( "line.separator"));
-		        
+				bw.write("Generating random order. Checking for feasiblity" + System.getProperty("line.separator"));
+				bw.write(feasibility.getGeneratedOrder().toString() + System.getProperty("line.separator"));
+				bw.write("Time elapsed so far: " + elapsedTime + " ms\n" + System.getProperty("line.separator"));
 
-		    } catch (IOException e) {
-		        e.printStackTrace();
-		    }
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 		}
 		bw.write(result);
-		
+
 		bw.close();
+		System.out.println("Text file has been generated with the following name: " + fileName);
 		return result;
-		
+
 	}
 
 }

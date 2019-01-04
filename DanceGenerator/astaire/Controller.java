@@ -44,7 +44,7 @@ public interface Controller {
 	/**
 	 * Generates a running order of the dances for the dance show.
 	 * @param gaps the required number of gaps between dances for each dancer
-	 * @param  
+	 * @param  numberToGenerate takes in a number which is the number of dances required in the order
 	 * @return	a String representation of the generate running order
 	 * @throws InvalidDanceNameException 
 	 * @throws IOException 

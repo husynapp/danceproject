@@ -9,6 +9,7 @@ import exceptions.InvalidGroupNameException;
 /**
  * Creates a Group with ArrayList of Performers
  * @author Abdullah
+ * @version 04/01/2019
  *
  */
 public class GroupList {
@@ -28,21 +29,9 @@ public class GroupList {
 	}
 	
 	/**
-	 * Getter Method to return performers with specific group name
-	 * @param groupName	name of the group for which performers are returned
-	 * @return		performers in a group
-	 * @throws InvalidDanceNameException 
-	 * @throws InvalidGroupNameException 
+	 * Returns the generated TreeMap of group names and its performers
+	 * @return		groupAndPerformers_
 	 */
-//	public ArrayList<String> getSelectedPerformers(String groupName) throws InvalidGroupNameException{
-//		
-//		if(!groupAndPerformers_.containsKey(groupName)) {
-//			throw new InvalidGroupNameException();
-//		} else {
-//			return groupAndPerformers_.get(groupName);
-//		}
-//	}
-	
 	public TreeMap<String, ArrayList<String>> getFullGroup(){
 		return groupAndPerformers_;
 	}

@@ -74,8 +74,8 @@ public class TUI {
 			break;
 		case "4": // Generates a running order of all dance numbers
 			display("Generates a running order...");
-			display("Enter the required number of gaps between dances:");
-			display("Enter the number of dances you want in the order:");
+			display("Firstly enter the required number of gaps between dances:");
+			display("then enter the number of dances you want in the order:");
 			try {
 				display(controller.generateRunningOrder((new Integer(stdIn.nextLine().trim())).intValue(),
 						(new Integer(stdIn.nextLine().trim())).intValue()));

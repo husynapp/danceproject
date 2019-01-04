@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import exceptions.InvalidDanceNameException;
 
 /**
- * 
+ * Allows to check if an order is feasible for changing between dances
  * @author Abdullah
  * @version 02/01/2019
  *
@@ -87,6 +87,10 @@ public class FeasibilityChecker {
 		return isSuitable;
 	}
 
+	/**
+	 * Returns the if the dance order is feasible with the order, if not states its not feasible
+	 * @return
+	 */
 	public String danceWithProblem() {
 		String result = "";
 		if (!problematicDanceNumber_.isEmpty()) {
@@ -105,10 +109,18 @@ public class FeasibilityChecker {
 		return result;
 	}
 
+	/**
+	 * Getter method for suitability 
+	 * @return		isSuitable a boolean
+	 */
 	public boolean suitable() {
 		return isSuitable;
 	}
 
+	/**
+	 * Returns the order of dances that it has generated
+	 * @return	arrayOfDances_ 
+	 */
 	public ArrayList<String> getGeneratedOrder() {
 		return arrayOfDances_;
 	}

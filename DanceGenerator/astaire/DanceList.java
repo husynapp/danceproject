@@ -33,7 +33,7 @@ public class DanceList {
 	}
 
 	/**
-	 * replace the "juniors" "seniors" stuff to actual names of people in the group
+	 * Replaces the group names with respective performers
 	 * Helper method
 	 */
 	private void replaceGroupWithPerformers() {

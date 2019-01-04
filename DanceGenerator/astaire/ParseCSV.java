@@ -71,11 +71,20 @@ public class ParseCSV {
 		}
 
 	}
-	
+	/**
+	 * Either this or addToTreeMap is ran depending on the option required.
+	 * Adds only the dance names to the ArrayList
+	 * @param danceName	name of the dances
+	 */
 	private void addToArrayList(String danceName) {
 		this.danceNames_.add(danceName.trim());
 	}
 	
+	/**
+	 * private helper method to add groupname/dance name to the treemap
+	 * @param name		name of the group/ or dance name
+	 * @param performers	performers for above 
+	 */
 	private void addToTreeMap(String name, String performers) {
 		ArrayList<String> arrayList = new ArrayList<String>();
 
@@ -91,10 +100,18 @@ public class ParseCSV {
 		treeMapOfPerformers_.put(name.trim(), arrayList);
 	}
 	
+	/**
+	 * returns the generated TreeMap of names and its performers
+	 * @return		treeMapOfPerformers_ 
+	 */
 	public TreeMap<String, ArrayList<String>> getTreeMap(){
 		return treeMapOfPerformers_;
 	}
 	
+	/**
+	 * Returns an ArrayList of Dance names
+	 * @return		danceNames_
+	 */
 	public ArrayList<String> getDanceNames(){
 		return danceNames_;
 	}
